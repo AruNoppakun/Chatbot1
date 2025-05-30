@@ -1,0 +1,8 @@
+
+streamlit
+transformers
+groq
+requests
+pypdf
+PyPDF2
+pandas
